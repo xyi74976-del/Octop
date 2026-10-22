@@ -1,41 +1,9 @@
 {
   "revision": "before",
-  "pathname": "/setup",
-  "expected": "/setup",
-  "requests": [
-    {
-      "path": "setup/status",
-      "method": "GET"
-    },
-    {
-      "path": "setup/status",
-      "method": "GET"
-    },
-    {
-      "path": "i18n/tools",
-      "method": "GET"
-    },
-    {
-      "path": "i18n/skills",
-      "method": "GET"
-    },
-    {
-      "path": "auth/oauth/status",
-      "method": "GET"
-    },
-    {
-      "path": "auth/ldap/status",
-      "method": "GET"
-    },
-    {
-      "path": "auth/captcha",
-      "method": "GET"
-    },
-    {
-      "path": "auth/login",
-      "method": "POST"
-    }
-  ],
-  "page_errors": [],
-  "fixture": "Real Vite/React application; only API responses are synthetic. No real accounts, backend state, or providers."
+  "status": "failed",
+  "chunk_count": 0,
+  "error_message": "Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'",
+  "original_bytes_unchanged": true,
+  "fixture": "Actual Octop HTTP upload, background indexing, SQLite, authentication and React dashboard. Only embedding readiness/vectors and unused harness are synthetic. Before uses pristine pinned parse.py; after uses candidate parser.",
+  "page_errors": []
 }
