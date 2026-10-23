@@ -1,0 +1,13 @@
+{
+  "failed_navigation_recovered": true,
+  "table_selection_preserved": true,
+  "actual_page_refresh_failure_warning": true,
+  "navigation_requests_started": 3,
+  "unsent_requests_stopped": 5,
+  "partial_delete_succeeded": 7,
+  "failed_selected_for_retry": 1,
+  "retry_deleted": 1,
+  "real_database_empty": true,
+  "page_errors": [],
+  "fixture": "Actual Octop React UI, authentication, HTTP delete/reindex endpoints, SQLite and sidecar indexing. Embedding readiness/vectors and unused agent harness are synthetic; browser routing holds requests for the navigation race and injects one synthetic 503. No external model or business documents."
+}
