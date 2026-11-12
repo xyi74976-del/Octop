@@ -1,0 +1,64 @@
+{
+  "sourceHead": "130d4640ac2d11846368362293a0f376939c407d",
+  "sourceTree": "a7c3d1a132a95f25f8afc1b9da970816e0cdf3ba",
+  "fixture": "Actual KnowledgeBases component, CurrentUserProvider, bundled English locale and project styles; synthetic localhost-only API responses; no live backend or model",
+  "calls": [
+    {
+      "path": "/settings/timezone",
+      "method": "GET"
+    },
+    {
+      "path": "/knowledge-bases",
+      "method": "GET"
+    },
+    {
+      "path": "/knowledge-bases/capability",
+      "method": "GET"
+    },
+    {
+      "path": "/knowledge-bases/kb",
+      "method": "GET"
+    },
+    {
+      "path": "/knowledge-bases/kb/documents",
+      "method": "GET"
+    },
+    {
+      "path": "/knowledge-bases/kb/documents/two/reindex",
+      "method": "POST"
+    },
+    {
+      "path": "/knowledge-bases/kb/documents/one/reindex",
+      "method": "POST"
+    },
+    {
+      "path": "/knowledge-bases/kb",
+      "method": "GET"
+    },
+    {
+      "path": "/knowledge-bases/kb/documents",
+      "method": "GET"
+    },
+    {
+      "path": "/knowledge-bases",
+      "method": "GET"
+    },
+    {
+      "path": "/knowledge-bases/kb/documents/two/reindex",
+      "method": "POST"
+    },
+    {
+      "path": "/knowledge-bases/kb",
+      "method": "GET"
+    },
+    {
+      "path": "/knowledge-bases/kb/documents",
+      "method": "GET"
+    },
+    {
+      "path": "/knowledge-bases",
+      "method": "GET"
+    }
+  ],
+  "errors": []
+}
